@@ -1,0 +1,179 @@
+Estado​,Puesto,Nota,Cambio
+ Singapur,1,89.7,0.3
+ Nueva Zelanda,2,83.9,0.2
+ Australia,3,82.4,0.2
+ Suiza,4,81.9,0.1
+ Irlanda,5,81.4,0.5
+Taiwan,6,78.6,1.5
+ Reino Unido,7,78.4,0.9
+ Estonia,8,78.2,0.5
+ Canadá,9,77.9,0.3
+ Dinamarca,10,77.8,0.5
+ Islandia,11,77.4,0.3
+ Georgia,12,77.2,0.1
+ Mauricio,13,77.0,2.1
+Emiratos Árabes Unidos,14,76.9,0.7
+ Lituania,15,76.9,0.2
+ Países Bajos,16,76.8,0.2
+ Finlandia,17,76.1,0.4
+ Luxemburgo,18,76.0,0.2
+ Chile,19,75.2,1.6
+ Estados Unidos,20,74.8,1.8
+Suecia,21,74.7,0.2
+ Malasia,22,74.4,0.3
+ Japón,23,74.1,0.8
+ Corea del Sur,24,74.0,0.0
+ Austria,25,73.9,0.6
+ Israel,26,73.8,0.2
+ República Checa,27,73.8,1.0
+Noruega,28,73.4,0.0
+ Alemania,29,72.5,1.0
+ Letonia,30,72.3,0.4
+ Catar,31,72.0,0.3
+ Armenia,32,71.9,1.3
+ Chipre,33,71.4,1.3
+Kazajistán,34,71.1,1.5
+ Bulgaria,35,70.4,0.2
+ Malta,36,70.2,0.7
+ Bélgica,37,70.1,1.2
+ Azerbaiyán,38,70.1,0.8
+ España,39,69.9,3.0
+ Baréin,40,69.9,3.6
+ Polonia,41,69.7,0.6
+ Tailandia,42,69.7,0.3
+Rumania,43,69.5,0.2
+Uruguay,44,69.3,0.2
+ Jamaica,45,69.0,0.5
+ Macedonia del Norte,46,68.6,0.9
+ Ruanda,47,68.3,2.6
+ Eslovenia,48,68.3,0.5
+ Colombia,49,68.1,1.1
+Perú,50,67.7,0.2
+ Botsuana,51,67.6,2.0
+ Portugal,52,67.5,0.5
+ Santa Lucía,53,67.5,0.7
+ Serbia,54,67.2,1.2
+ Hungría,55,67.2,0.8
+ Indonesia,56,66.9,0.3
+ Brunéi,57,66.6,0.0
+ Kosovo,58,66.5,0.9
+ San Vicente y las Granadinas,59,66.3,0.5
+ Seychelles,60,66.3,2.0
+Eslovaquia,61,66.3,0.5
+Panamá,62,66.2,1.0
+ Arabia Saudita,63,66.0,3.6
+ Francia,64,65.7,0.3
+México,65,65.5,0.5
+Albania,66,65.2,1.7
+ Barbados,67,65.0,3.6
+ Italia,68,64.9,1.1
+ Jordania,69,64.6,1.4
+ Bahamas,70,64.4,0.1
+ Omán,71,64.6,1.0
+ Costa Rica,72,64.2,1.6
+ Filipinas,73,64.1,0.4
+ Kuwait,74,64.1,0.9
+ Guatemala,75,64.0,0.0
+ Turquía,76,64.0,0.4
+ Cabo Verde,77,63.8,0.2
+Kirguistán,78,63.7,0.8
+ Croacia,79,63.6,1.4
+Montenegro,80,63.4,1.9
+ Marruecos,81,63.3,0.0
+ Bosnia y Herzegovina,82,62.9,0.3
+ Namibia,83,62.6,1.7
+Paraguay,84,62.6,0.4
+ Moldavia,85,62.5,0.5
+ Mongolia,86,62.4,6.5
+ Fiyi,87,62.2,1.2
+ República Dominicana,88,62.1,1.2
+ Samoa,89,61.9,0.2
+ Vietnam,90,61.7,2.9
+ Costa de Marfil,91,61.7,2.0
+Rusia,92,61.5,0.5
+ Tanzania,93,61.3,0.4
+ El Salvador,94,61.0,0.6
+ Bielorrusia,95,61.0,0.7
+ Grecia,96,60.9,1.0
+ Vanuatu,97,60.5,0.2
+ Honduras,98,59.8,1.3
+ Sudáfrica,99,59.7,0.9
+ Benín,100,59.6,4.4
+ Ghana,101,59.2,0.2
+ Trinidad y Tobago,102,59.0,0.7
+ Papúa Nueva Guinea,103,58.9,0.5
+ Gambia,104,58.8,2.5
+ Nigeria,105,58.7,1.5
+ Uganda,106,58.6,0.9
+ China,107,58.4,1.1
+ Uzbekistán,108,58.3,1.1
+ Bután,109,58.3,3.8
+ Gabón,110,58.1,1.4
+ Senegal,111,58.0,0.0
+ Madagascar,112,57.7,2.8
+ Togo,113,57.5,3.4
+ Belice,114,57.5,0.1
+ Tonga,115,57.5,1.3
+ Guyana,116,57.4,1.2
+ Níger,117,57.3,2.6
+ Camboya,118,57.3,0.0
+ Túnez,119,56.6,0.8
+ Bangladés,120,56.5,0.1
+ India,121,56.5,0.0
+ Islas Salomón,122,56.5,3.6
+ Guinea,123,56.5,0.0
+ Burkina Faso,124,56.5,0.2
+ Nicaragua,125,56.3,0.9
+ Yibuti,126,56.2,3.3
+Ucrania,127,56.2,1.3
+ Mauritania,128,56.1,0.8
+ Santo Tomé y Príncipe,129,55.9,0.3
+ Egipto,130,55.7,1.7
+ Sri Lanka,131,55.7,1.7
+ Comoras,132,55.7,2.0
+ Malí,133,55.6,0.3
+ Tayikistán,134,55.2,3.0
+ Birmania,135,55.2,1.2
+ Maldivas,136,55.2,1.3
+ Suazilandia,137,55.1,0.2
+ Kenia,138,54.9,0.4
+ Guinea-Bisáu,139,54.9,1.6
+ Angola,140,54.2,2.0
+ Laos,141,53.9,1.6
+ Lesoto,142,53.5,1.0
+ Brasil,143,53.4,0.3
+ Camerún,144,53.4,0.2
+ Malaui,145,53.0,0.2
+ Afganistán,146,53.0,1.7
+ Dominica,147,53.0,7.8
+ Argentina,148,52.7,0.4
+ Ecuador,149,52.4,1.1
+ Sierra Leona,150,51.7,3.7
+ Etiopía,151,51.7,1.9
+ Pakistán,152,51.7,3.1
+ Mozambique,153,51.6,1.1
+ Líbano,154,51.4,0.3
+ Haití,155,50.8,1.5
+ República del Congo,156,50.7,8.9
+ Nepal,157,50.7,3.5
+ Chad,158,50.4,0.2
+ Zambia,159,50.4,3.1
+ Micronesia,160,50.4,1.6
+ Burundi,161,49.9,0.9
+ Argelia,162,49.7,2.8
+ Guinea Ecuatorial,163,49.2,0.9
+ Liberia,164,49.2,0.2
+ República Democrática del Congo,165,49.0,0.5
+ República Centroafricana,166,48.8,1.9
+ Turkmenistán,167,47.4,0.9
+ Irán,168,47.2,2.0
+ Surinam,169,46.4,3.1
+ Timor Oriental,170,44.7,1.2
+ Kiribati,171,44.4,0.8
+ Bolivia,172,42.7,0.1
+ Eritrea,173,42.3,3.8
+ Zimbabue,174,39.5,3.6
+ Sudán,175,39.1,5.9
+ Cuba,176,28.1,1.2
+Venezuela,177,24.7,0.5
+ Corea del Norte,178,5.2,1.0
